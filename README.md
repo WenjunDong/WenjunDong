@@ -1,4 +1,7 @@
-### Hi there 👋
+### Wenjun Dong
+Hello there! I'm delighted to introduce myself as a research scientist specializing in numerical simulations, machine learning, and GPU accelerations. With extensive experience in these areas, I've dedicated myself to advancing research and developing solutions that can tackle complex problems in various fields.
+
+As a numerical simulation expert, I have a deep understanding of computational methods and algorithms that enable me to simulate complex systems accurately. With machine learning techniques, I can develop intelligent algorithms that can learn from data and make predictions on unseen data. Furthermore, I am proficient in GPU acceleration techniques that allow me to harness the power of GPUs to speed up computations, enabling the simulation of larger and more complex problems.
 
 <!--
 **WenjunDong/WenjunDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
